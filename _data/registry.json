@@ -1,7 +1,18 @@
-{
+{ "hives": [{
     "type": "Persistence",
     "ttp": "unknown",
     "os": ["Win 7", "Win 10"],
     "key": "HKLM...",
+    "description": "Put in here",
     "date": "2021/08/26"
+},
+{
+    "type": "Persistence",
+    "ttp": "unknown",
+    "os": ["Win 8.1", "Win 10"],
+    "key": "HKxx",
+    "description": "Put in here",
+    "date": "2021/08/27"
+}
+]
 }
