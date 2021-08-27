@@ -1,7 +1,7 @@
 { "events": [{
     "tactic": "Persistence",
     "technique": "T1136.001",
-    "os": ["7", "8", "8.1", "10", "Server 2008", "Server 2010", "Server 2013", "Server 2016"],
+    "os": ["8.1", "10", "Server 2013", "Server 2016"],
     "ID": "4720",
     "log_name": "Security",
     "query": "",
@@ -11,7 +11,7 @@
 {
     "tactic": "Persistence",
     "technique": "T1136.001",
-    "os": ["7", "8", "8.1", "10", "Server 2008", "Server 2010", "Server 2013", "Server 2016"],
+    "os": ["8.1", "10", "Server 2013", "Server 2016"],
     "ID": "4722",
     "log_name": "Security",
     "query": "",
