@@ -4,13 +4,16 @@ title: The Windows Event Logs
 
 # The Windows Event Logs
 
+## Further Links
+[[Microsoft Security Auditing Overview](https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/security-auditing-overview)]
 
+## Overview Events
 
 <table class="responsive-table table">
   <thead>
     <tr>
-      <th scope="col">Type</th>
-      <th scope="col">TTP</th>
+      <th scope="col">Tactic</th>
+      <th scope="col">Technique</th>
       <th scope="col">OS</th>
       <th scope="col">ID</th>
       <th scope="col">Log Name</th>
@@ -21,8 +24,8 @@ title: The Windows Event Logs
   <tbody>
   {% for event in site.data.eventlogs.events %}
     <tr>
-      <td> {{ event.type }} </td>
-      <td> {{ event.ttp }} </td>
+      <td> {{ event.tactic }} </td>
+      <td> {{ event.technique }} </td>
       <td> 
       <table>
       {% for os in event.os %}

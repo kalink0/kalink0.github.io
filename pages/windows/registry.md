@@ -7,8 +7,8 @@ title: The Windows Registry
 <table class="responsive-table table">
   <thead>
     <tr>
-      <th scope="col">Type</th>
-      <th scope="col">TTP</th>
+      <th scope="col">Tactic</th>
+      <th scope="col">Technique</th>
       <th scope="col">OS</th>
       <th scope="col">Key</th>
       <th scope="col">Description</th>
@@ -17,8 +17,8 @@ title: The Windows Registry
   <tbody>
   {% for hive in site.data.registry.hives %}
     <tr>
-      <td> {{ hive.type }} </td>
-      <td> {{ hive.ttp }} </td>
+      <td> {{ hive.tactic }} </td>
+      <td> {{ hive.technique }} </td>
       <td> 
       <table>
       {% for os in hive.os %}

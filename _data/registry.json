@@ -1,14 +1,14 @@
 { "hives": [{
-    "type": "Persistence",
-    "ttp": "unknown",
+    "tactic": "Persistence",
+    "technique": "unknown",
     "os": ["Win 7"],
     "key": "HKLM...",
     "description": "Put in here",
     "date": "2021/08/26"
 },
 {
-    "type": "Persistence",
-    "ttp": "unknown",
+    "tactic": "Persistence",
+    "technique": "unknown",
     "os": ["Win 8.1", "Win 10"],
     "key": "HKxx",
     "description": "Put in here",
