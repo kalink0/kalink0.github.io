@@ -34,7 +34,13 @@ type: {{site.data.registry.hives.type[0].type}}
     <tr>
       <td> {{ hive.type }} </td>
       <td> {{ hive.ttp }} </td>
-      <td> {{ hive.os }} </td>
+      <td> 
+      <table>
+      {% for os in hive.os %}
+      <tr><td> {{ os }} </td></tr>
+      {% endfor %}
+      </table>
+      </td>
       <td> {{ hive.key }} </td>
       <td> {{ hive.description }} </td> 
     </tr>
