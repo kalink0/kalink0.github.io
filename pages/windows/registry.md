@@ -4,21 +4,6 @@ title: The Windows Registry
 
 # The Windows Registry
 
-
-
-| Type | TTP | OS | Key |
-| ---- | --- | --- | --- |
-| abc | def | ghi | jkl |
-
-
-Content of Registry.json
-
-type: {{site.data.registry.hives.type[0].type}}
-
-<ul>
-<li> type html:  {{site.data.registry.hives[0].type}} </li>
-</ul>
-
 <table class="responsive-table table">
   <thead>
     <tr>

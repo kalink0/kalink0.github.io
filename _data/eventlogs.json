@@ -1,17 +1,21 @@
-{ "hives": [{
+{ "events": [{
     "type": "Persistence",
     "ttp": "unknown",
     "os": ["Win 7"],
-    "key": "HKLM...",
+    "ID": "5601",
+    "log_name": "Application",
+    "query": "select *",
     "description": "Put in here",
     "date": "2021/08/26"
 },
 {
     "type": "Persistence",
     "ttp": "unknown",
-    "os": ["Win 8.1", "Win 10"],
-    "key": "HKxx",
+    "os": ["Win 7", "Win 2k8"],
+    "ID": "5601",
+    "log_name": "Application",
+    "query": "select *",
     "description": "Put in here",
-    "date": "2021/08/27"
+    "date": "2021/08/26"
 }
 ]}

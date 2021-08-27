@@ -1,6 +1,10 @@
 ---
-title: Topic
+title: Playbook
 ---
-# Topic 
+# Content
+
+## Windows
 
 [Windows Registry](/pages/windows/registry)
+
+[Windows Event Logs](/pages/windows/eventlogs)
