@@ -1,6 +1,5 @@
 ---
 title: The Windows Event Logs
-datatable: true
 ---
 
 # The Windows Event Logs
@@ -9,7 +8,7 @@ datatable: true
 [[Microsoft Security Auditing Overview](https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/security-auditing-overview)]
 
 ## Overview Events
-<table class="display" data-order='[[ 1, "asc" ]]' data-page-length='25'>
+<table class="responsive-table table">
   <thead>
     <tr>
       <th scope="col">Tactic</th>
