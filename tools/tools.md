@@ -27,6 +27,7 @@
 | KAPE |[https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape]()|WIN|Non-Paid, Paid| Incident Response,<br> Artifact Collection and Parsing| 2022/10/06 | Yes | |
 |iLEAPP |[https://github.com/abrignoni/iLEAPP]()|WIN, LIN, MAC|Non-Paid| iOS Artifact Parser| 2022/10/06 | Yes | |
 | Malcat |[https://malcat.fr/]()|WIN, LIN|Non-Paid, Paid| Binary Analysis| 2022/10/06 | No | |
+| pestudio |[https://www.winitor.com/download]()|WIN|Non-Paid, Paid| Binary Analysis| 2022/10/06 | Yes | |
 | RegRipper |[https://github.com/keydet89/RegRipper3.0]()|WIN, LIN|Non-Paid| Windows Registry Parser| 2022/10/06 | Yes | |
 |RLEAPP |[https://github.com/abrignoni/RLEAPP]()|WIN, LIN, MAC|Non-Paid| (Cloud) Returns Artifact Parser| 2022/10/06 | Yes | |
 |Sleuthkit |[https://sleuthkit.org/sleuthkit/download.php]()|WIN, LIN|Non-Paid| File System Forensics| 2022/10/06 | Yes | Wiki: <br> [http://wiki.sleuthkit.org/index.php?title=TSK_Tool_Overview]() |
