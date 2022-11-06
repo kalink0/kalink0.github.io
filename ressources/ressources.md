@@ -11,4 +11,4 @@
 |Name | URL | Free? | Type | Added | Comments |
 | --- | --- | --- | ---| --- | ---| 
 |SANS Poster and Cheat Sheet |[https://www.sans.org/posters/]()|SANS Account required| Poster <br> Cheat Sheet| 2022/10/06 | Nice overview and visualisation on different topics|
-|SANS Poster and Cheat Sheet |[https://thisweekin4n6.com/]()|Free| Weekly Roundup of DFIR news| 2022/10/06 | One of my main ressources to stay up-to-date. Phill Moore is doing an extraordinary job with this.|
+|This week in 4n6 |[https://thisweekin4n6.com/]()|Free| Weekly Roundup of DFIR news| 2022/10/06 | One of my main ressources to stay up-to-date. Phill Moore is doing an extraordinary job with this.|
