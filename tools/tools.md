@@ -35,3 +35,4 @@
 |RLEAPP |[https://github.com/abrignoni/RLEAPP](https://github.com/abrignoni/RLEAPP)|WIN, LIN, MAC|Non-Paid| (Cloud) Returns Artifact Parser| 2022/10/06 | Yes | |
 |Sleuthkit |[https://sleuthkit.org/sleuthkit/download.php](https://sleuthkit.org/sleuthkit/download.php)|WIN, LIN|Non-Paid| File System Forensics| 2022/10/06 | Yes | Wiki: <br> [http://wiki.sleuthkit.org/index.php?title=TSK_Tool_Overview](http://wiki.sleuthkit.org/index.php?title=TSK_Tool_Overview) |
 | Tsurugi Linux |[https://tsurugi-linux.org/downloads.php](https://tsurugi-linux.org/downloads.php)|-|Non-Paid| Forensic Linux Live-OS| 2022/10/06 | Yes | |
+| unfurl |[https://github.com/obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl)|-|Non-Paid| Data Extraction and Visualization of URLs| 2022/10/09 | Yes |Live Demo: [https://dfir.blog/unfurl/](https://dfir.blog/unfurl/) |
