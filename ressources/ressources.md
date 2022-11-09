@@ -12,9 +12,9 @@ Kudos to the owners of the ressources. I only link them here and have nothing to
 
 |Name | URL | Free? | Type | Added | Comments |
 | --- | --- | --- | ---| --- | ---| 
-|Antivirus Event Analysis Cheat Sheet | [https://www.nextron-systems.com/?s=antivirus]()|Free|Cheat Sheet|2022/10/06| Cheat Sheet for Analysing the relevance of Events from AV|
-|DFIR Review |[https://dfir.pubpub.org/]()|Free| Community-reviewed applied research and testing in DFIR.|
-|Digital Forensics Discord | [https://discord.com/invite/digitalforensics]()|Discord Account required||2022/10/06| Discord Server with many great person with epxertise in the DFIR field|
-|Microsoft Eventlog Mindmap | [https://github.com/mdecrevoisier/Microsoft-eventlog-mindmap]()|Free|Cheat Sheet|2022/10/06| Mindmaps for Windows Event logs - so you know what to look for|
-|SANS Poster and Cheat Sheet |[https://www.sans.org/posters/]()|SANS Account required| Poster <br> Cheat Sheet| 2022/10/06 | Nice overview and visualisation on different topics|
-|This week in 4n6 |[https://thisweekin4n6.com/]()|Free| Weekly Roundup of DFIR news| 2022/10/06 | One of my main ressources to stay up-to-date. Phill Moore does an extraordinary job with this.|
+|Antivirus Event Analysis Cheat Sheet | [https://www.nextron-systems.com/?s=antivirus](https://www.nextron-systems.com/?s=antivirus)|Free|Cheat Sheet|2022/10/06| Cheat Sheet for Analysing the relevance of Events from AV|
+|DFIR Review |[https://dfir.pubpub.org/](https://dfir.pubpub.org/)|Free| Community-reviewed applied research and testing in DFIR.|
+|Digital Forensics Discord | [https://discord.com/invite/digitalforensics](https://discord.com/invite/digitalforensics)|Discord Account required||2022/10/06| Discord Server with many great person with epxertise in the DFIR field|
+|Microsoft Eventlog Mindmap | [https://github.com/mdecrevoisier/Microsoft-eventlog-mindmap](https://github.com/mdecrevoisier/Microsoft-eventlog-mindmap)|Free|Cheat Sheet|2022/10/06| Mindmaps for Windows Event logs - so you know what to look for|
+|SANS Poster and Cheat Sheet |[https://www.sans.org/posters/](https://www.sans.org/posters/)|SANS Account required| Poster <br> Cheat Sheet| 2022/10/06 | Nice overview and visualisation on different topics|
+|This week in 4n6 |[https://thisweekin4n6.com/](https://thisweekin4n6.com/)|Free| Weekly Roundup of DFIR news| 2022/10/06 | One of my main ressources to stay up-to-date. Phill Moore does an extraordinary job with this.|
